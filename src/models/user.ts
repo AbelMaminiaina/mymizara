@@ -1,4 +1,4 @@
-import type { userRole }  from './UserRole'
+import type { userRole }  from './userRole'
 
 export interface User{
     id: number;
