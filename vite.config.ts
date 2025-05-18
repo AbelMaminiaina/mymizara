@@ -16,5 +16,5 @@ export default defineConfig({
       },
     },
   },
-  base: "https://github.com/AbelMaminiaina/mymizara/"
+  base: "/mymizara/"
 })

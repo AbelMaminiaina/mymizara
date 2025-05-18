@@ -10,10 +10,10 @@ import "slick-carousel/slick/slick-theme.css";
 
 export const App = () => (
 
-    <Router>     
+        
       <Routes>
         <Route path="/" element={<LandingPage />} />
       </Routes>
-    </Router>
+    
   
 );
