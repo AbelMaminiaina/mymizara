@@ -1,3 +1,10 @@
+import courseone from '../assets/images/courses/courseone.png'
+import coursetwo from '../assets/images/courses/coursetwo.png'
+import coursethree from '../assets/images/courses/coursethree.png'
+
+
+
+
 export const courseData: {
     heading: string;
     imgSrc: string;
@@ -11,7 +18,7 @@ export const courseData: {
       {
         heading: 'Soutien scolaire personnalisé',
         Association: "Association Mizara",
-        imgSrc: 'src/assets/images/courses/courseone.png',
+        imgSrc: courseone,
         students: 150,
         name: "Hanitra",
         price: 20,
@@ -21,7 +28,7 @@ export const courseData: {
       {
         heading: 'Accompagnement des familles',
         Association: "Association Mizara",
-        imgSrc: 'src/assets/images/courses/coursetwo.png',
+        imgSrc: coursetwo,
         students: 130,
         name: "Haja",
         price: 20,
@@ -31,7 +38,7 @@ export const courseData: {
       {
         heading: 'Distribution de fournitures scolaires',
         Association: "Association Mizara",
-        imgSrc: 'src/assets/images/courses/coursethree.png',
+        imgSrc: coursethree,
         students: 120,
         name: "Abel",
         price: 20,
@@ -41,7 +48,7 @@ export const courseData: {
       {
         heading: 'Parrainage scolaire',
         Association: "Association Mizara",
-        imgSrc: 'src/assets/images/courses/courseone.png',
+        imgSrc: courseone,
         students: 150,
         name: "Hanitra",
         price: 20,
@@ -51,7 +58,7 @@ export const courseData: {
       {
         heading: ' Ateliers d’éveil et d’alphabétisation',
         Association: "Association Mizara",
-        imgSrc: 'src/assets/images/courses/coursetwo.png',
+        imgSrc: coursetwo,
         students: 150,
         name: "Haja",
         price: 20,
@@ -61,7 +68,7 @@ export const courseData: {
       {
         heading: 'chaque enfant ait les mêmes chances de réussir',
         Association: "Association Mizara",
-        imgSrc: 'src/assets/images/courses/coursethree.png',
+        imgSrc: coursethree,
         students: 150,
         name: "Hanitra",
         price: 20,
