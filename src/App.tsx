@@ -13,7 +13,7 @@ export const App = () => (
         
       <Routes>
         <Route path="/" element={<LandingPage />} />
-        <Route path="/FaireUnDon" element={<FaireUnDon />} />
+        <Route path="/faireundon" element={<FaireUnDon />} />
       </Routes>
     
   
